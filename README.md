@@ -2,7 +2,8 @@
 
 ## Usage
 
-> TODO
+Examples are included with each library within the `examples/` directory, inside
+each library directory.
 
 ## Contributing
 
@@ -12,10 +13,9 @@
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/bsodmike/iot-arduino-libraries.
-
+Bug reports and pull requests are welcome on GitHub at https://github.com/bsodmike/iot-arduino-libraries/issues.
 
 ## License
 
-The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+These libraries are available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
 
